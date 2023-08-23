@@ -1,4 +1,4 @@
-<h1>Congigure a Wireless Router and Client</h1>
+<h1>Configure a Wireless Router and Client</h1>
 
 <h2>Description</h2>
 
