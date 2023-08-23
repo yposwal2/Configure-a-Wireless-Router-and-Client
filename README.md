@@ -11,10 +11,10 @@ In this lab, I effectively completed a series of tasks to configure a home netwo
 
 - <b>Cisco Packet Tracer</b> 
    
-<h1>Program Result Screenshot</h1>
+<h1>Program Result</h1>
 
 <p align="center">
-Output I<br/>
+Lab Screenshot <br/>
 <img src="https://i.imgur.com/xmSb52F.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
